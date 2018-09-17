@@ -1,5 +1,8 @@
 _repo: Truthful-Jane_52447
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52447-h/images/cover.jpg
 creator:
   author:
     agent_name: Kingsley, Florence Morse
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '7835'
     url: http://www.gutenberg.org/2009/agents/7835
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52447#Truthful-Jane
 gutenberg_issued: '2016-06-30'
 gutenberg_type: Text
 identifiers:
